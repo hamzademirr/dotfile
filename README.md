@@ -1,12 +1,15 @@
 ## Install Apps
 
+```PowerShell
+winget install --id=Mozilla.Firefox -e  && winget install --id=Mozilla.Firefox.DeveloperEdition -v "120.0b6" -e  && winget install --id=Microsoft.VisualStudioCode -e  && winget install --id=Google.Chrome -e  && winget install --id=Discord.Discord -e  && winget install --id=Valve.Steam -e && install --id=Microsoft.WindowsTerminal  -e
+```
+
 ### General Usage
 
 - Firefox
 - Google Chrome
 - Discord
 - Steam
-
 ### Development
 
 - Visual Studio Code
