@@ -15,7 +15,6 @@ winget install --id=Mozilla.Firefox -e  && winget install --id=Mozilla.Firefox.D
 - Thunderbird
 - Wox/Everyting
 - O&O ShutUp10++
-- [winutil](https://github.com/ChrisTitusTech/winutil?tab=readme-ov-file)
   
 ### Development
 
@@ -53,7 +52,6 @@ winget install --id=Mozilla.Firefox -e  && winget install --id=Mozilla.Firefox.D
      name = hamzademirr
   ```
 
-  
 - Set GitHub SSH Key
 
   ```bash
