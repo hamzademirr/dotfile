@@ -15,6 +15,9 @@ winget install --id=Mozilla.Firefox -e  && winget install --id=Mozilla.Firefox.D
 - Thunderbird
 - Wox/Everyting
 - O&O ShutUp10++
+  ```PowerShell
+    shutup10
+  ```
   
 ### Development
 
