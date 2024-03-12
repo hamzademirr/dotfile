@@ -16,7 +16,7 @@
   wsl --install
   ```
 - [Ubuntu](https://apps.microsoft.com/detail/9pdxgncfsczv)
-  ```
+  ```PowerShell
   wsl --install -d Ubuntu
   ```
 
