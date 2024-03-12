@@ -25,6 +25,10 @@
 ### Terminal
 
 - Install [Oh My Zsh](https://ohmyz.sh)
+  ```PowerShell
+  # Set Zsh as the default shell
+  chsh -s $(which zsh)
+  ```
 - Install [Vimrc](https://github.com/amix/vimrc)
 - Install [Node](https://nodejs.org/en/)
 - Install [Yarn](https://yarnpkg.com/en/docs/install)
