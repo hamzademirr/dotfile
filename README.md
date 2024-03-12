@@ -43,7 +43,7 @@
 - Set GitHub SSH Key
 
   ```bash
-  mkdir .ssh && cd .ssh
+  mkdir ~/.ssh && cd ~/.ssh
   ```
 
   ```bash
