@@ -1,7 +1,7 @@
 ## Install Apps
 
 ```PowerShell
-winget install --id=Mozilla.Firefox -e  && winget install --id=Mozilla.Firefox.DeveloperEdition -v "120.0b6" -e  && winget install --id=Microsoft.VisualStudioCode -e  && winget install --id=Google.Chrome -e  && winget install --id=Discord.Discord -e  && winget install --id=Valve.Steam -e && install --id=Microsoft.WindowsTerminal  -e && install --id=KDE.KDEConnect  -e && install --id=7zip.7zip  -e && install --id=OO-Software.ShutUp10  -e && install --id=Mozilla.Thunderbird  -e && install --id=Wox.Wox  -e && install -e --id voidtools.Everything
+winget upgrade --all && winget install --id=Mozilla.Firefox -e  && winget install --id=Mozilla.Firefox.DeveloperEdition -e  && winget install --id=Microsoft.VisualStudioCode -e  && winget install --id=Google.Chrome -e  && winget install --id=Discord.Discord -e  && winget install --id=Valve.Steam -e && winget install --id=Microsoft.WindowsTerminal  -e && winget install --id=KDE.KDEConnect  -e && winget install --id=7zip.7zip  -e && winget install --id=OO-Software.ShutUp10  -e && winget install --id=Mozilla.Thunderbird  -e && winget install --id=Wox.Wox  -e && winget install -e --id=voidtools.Everything
 ```
 
 ### General Usage
