@@ -42,6 +42,7 @@ winget upgrade --all && winget install --id=Mozilla.Firefox -e  && winget instal
   chsh -s $(which zsh)
   ```
 - Install [Vimrc](https://github.com/amix/vimrc)
+- Install [Nvm](https://learn.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-wsl)
 - Install [Node](https://nodejs.org/en/)
 - Install [Yarn](https://yarnpkg.com/en/docs/install)
 - Install [Zsh Autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md)
